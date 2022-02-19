@@ -57,4 +57,6 @@ Thank You for taking the time to view my GitHub Profile.
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
  <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> 
  <a href="https://www.sonatype.com/products/repository-pro" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/sonatype-logo.svg" alt="Nexus" width="40" height="40"/> </a> 
+ <a href="https://bitcoin.org/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/bitcoin.svg" alt="Nexus" width="40" height="40"/> </a> 
+ <a href="https://www.hyperledger.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-icon.svg" alt="Nexus" width="40" height="40"/> </a> 
  </p>
