@@ -2,8 +2,6 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=alisheykhi/alisheykhi)
 [![Github](https://img.shields.io/github/followers/alisheykhi?label=Follow&style=social)](https://github.com/alisheykhi)
 
-<p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
 
 <p align="center" >
 My name is Ali. <br>
@@ -16,9 +14,11 @@ Thank You for taking the time to view my GitHub Profile.
                 width="28" /></h2> 
 
 
+<img align="right"
+ src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="30%" height="30%"/>
   
 - 🌱 I’m currently working, learning, growing my skillset in Spark, Akka, Cats and big data.
-  
+- 👨‍🎓 Graduated in information security and software engineering 
 - 💬 Ask me about Spark, Scala, Sql, PLSQL, Python
 - ⚡  Besides coding, I also enjoy off-roading and playing video games. :smile:
 
